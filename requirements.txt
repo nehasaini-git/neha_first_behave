@@ -1,3 +1,5 @@
 behave
 requests
 allure-behave
+mysql-connector
+pytest
