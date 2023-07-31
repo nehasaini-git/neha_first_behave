@@ -1,0 +1,69 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Verify if books are added and deleted using Library API",
+    "children" : [ {
+      "name" : "Verify AddBook API",
+      "uid" : "32f7d0d3b8b862f6",
+      "parentUid" : "c23447fc8eecb537b6416d4f349851de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690830265622,
+        "stop" : 1690830266338,
+        "duration" : 716
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Veify AddBook API with parameterisation -- @1.1 ",
+      "uid" : "bd0a870dddf7bb89",
+      "parentUid" : "c23447fc8eecb537b6416d4f349851de",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690830266341,
+        "stop" : 1690830266981,
+        "duration" : 640
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "8765", "fghj" ]
+    } ],
+    "uid" : "c23447fc8eecb537b6416d4f349851de"
+  }, {
+    "name" : "Verify book is details can be viewed",
+    "children" : [ {
+      "name" : "Verify GetBook API functionality",
+      "uid" : "f857749b1be48260",
+      "parentUid" : "f10e47e141ddca8c6451f3c66119df7d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690830266986,
+        "stop" : 1690830267348,
+        "duration" : 362
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f10e47e141ddca8c6451f3c66119df7d"
+  }, {
+    "name" : "Github API validation",
+    "children" : [ {
+      "name" : "Session management check",
+      "uid" : "68c3f1b19e1b1269",
+      "parentUid" : "68b0285f3f897079058f20cc5045a14c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690830267351,
+        "stop" : 1690830267886,
+        "duration" : 535
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "68b0285f3f897079058f20cc5045a14c"
+  } ]
+}

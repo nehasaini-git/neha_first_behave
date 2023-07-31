@@ -1,0 +1,41 @@
+[ {
+  "uid" : "32f7d0d3b8b862f6",
+  "name" : "Verify AddBook API",
+  "time" : {
+    "start" : 1690830265622,
+    "stop" : 1690830266338,
+    "duration" : 716
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f857749b1be48260",
+  "name" : "Verify GetBook API functionality",
+  "time" : {
+    "start" : 1690830266986,
+    "stop" : 1690830267348,
+    "duration" : 362
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd0a870dddf7bb89",
+  "name" : "Veify AddBook API with parameterisation -- @1.1 ",
+  "time" : {
+    "start" : 1690830266341,
+    "stop" : 1690830266981,
+    "duration" : 640
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68c3f1b19e1b1269",
+  "name" : "Session management check",
+  "time" : {
+    "start" : 1690830267351,
+    "stop" : 1690830267886,
+    "duration" : 535
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

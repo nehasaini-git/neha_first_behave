@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jul 31 20:04:25 BST 2023","Mon Jul 31 20:04:26 BST 2023","716","","","","","","Verify AddBook API",""
+"passed","Mon Jul 31 20:04:26 BST 2023","Mon Jul 31 20:04:27 BST 2023","362","","","","","","Verify GetBook API functionality",""
+"passed","Mon Jul 31 20:04:26 BST 2023","Mon Jul 31 20:04:26 BST 2023","640","","","","","","Veify AddBook API with parameterisation -- @1.1 ",""
+"passed","Mon Jul 31 20:04:27 BST 2023","Mon Jul 31 20:04:27 BST 2023","535","","","","","","Session management check",""
