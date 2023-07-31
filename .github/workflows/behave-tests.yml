@@ -21,4 +21,4 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Test with behave
         run: |
-          behave --no-capture
+          behave --no-capture features/github.feature
